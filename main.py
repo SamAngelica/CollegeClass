@@ -1,0 +1,6 @@
+print ("Olá, Phython!")
+print ()
+print ("Phython, quanto é 2 + 2?")
+print (2 + 2)
+print ()
+print ("O Python sabe matematica básica.\nParabéns!")
