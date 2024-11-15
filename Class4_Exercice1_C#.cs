@@ -4,6 +4,7 @@ class Program {
   public static void Main (string[] args) {
     
 //Escreva um programa para que sejam informados 5 (cinco) números inteiros. O programa deve informar o menor e o maior valor informado.
+    
     Console.WriteLine("Digite 5 números inteiros, um por vez.");
     Console.WriteLine();
      Console.Write("Digite um número: ");
